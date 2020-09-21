@@ -1,4 +1,5 @@
-### Hi there 👋  万事皆空，万事皆允
+### Hi there 👋 😄  
+程序的世界，颇具 万事皆空，万事皆允 的色彩。
 
 <!--
 **tunshiyu/tunshiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
