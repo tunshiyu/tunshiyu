@@ -3,6 +3,7 @@
 **Hz FrontEnd-吞石鱼**   👋 😄
 
 ![](http://antzuhl.cn:4000/get/@tunshiyu.readme)
+![]( https://visitor-badge.glitch.me/badge?page_id=<@tunshiyu>)
 
 
 #### 环境
