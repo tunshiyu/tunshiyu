@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T10:01:43.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Iau_Fzw0neaASAhZ6TbO" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T10:05:53.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YfRrReucESYrdGzMhb9i" version="15.5.9" type="github">
   <diagram id="_Y5LTQmzuMb5N7KYShm6" name="第 1 页">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="kZM8sqfFHhyPms-0oT-2-7" value="渠道树配置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#90BCFF;gradientDirection=north;fontColor=#FFFFFF;" parent="kZM8sqfFHhyPms-0oT-2-2" vertex="1">
           <mxGeometry x="360" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wau9Gw6_sfsYt9Wz2bvp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="570" width="1390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
